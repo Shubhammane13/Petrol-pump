@@ -1,9 +1,8 @@
 from text_to_speech import speak
 from fpdf import FPDF
 import datetime
-import fuel_reat as fr   #user difined class or function import 
+import fuel_rate as fr   #user difined class or function import 
 import random
-import os
 import smtplib
 
 
